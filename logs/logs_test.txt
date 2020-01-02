@@ -1,0 +1,11 @@
+
+========== Test Begin ==========
+
+Image 000000.png, Time 3.03053, Shape = (1, 720, 1280, 3)
+Image 000001.png, Time 3.18675, Shape = (1, 720, 1280, 3)
+Image 000002.png, Time 2.09326, Shape = (1, 720, 1280, 3)
+
+Test Time: 8.31054
+
+========== Test End ==========
+
